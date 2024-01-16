@@ -1,3 +1,0 @@
-#dataOKR
-#prof Elaine Figuereido
-
